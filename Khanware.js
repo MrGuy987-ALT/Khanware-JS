@@ -27,7 +27,7 @@ let loadedPlugins = [];
 /* Elements */
 const unloader = document.createElement('unloader');
 const dropdownMenu = document.createElement('dropDownMenu');
-const watermark = document.createElement('watermark');
+
 const statsPanel = document.createElement('statsPanel');
 const splashScreen = document.createElement('splashScreen');
 
